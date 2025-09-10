@@ -21,42 +21,53 @@ List of 100 beginner friendly questions on codeforces
 <th>Problem Name</th>
 <th>Online Judge</th>
 <th>Difficulty Level</th>
-  <th>Solution</th>
+  <th>Explaining</th>
+<th>Solution</th>
+
 </tr>
 <tr>
 <td>1</td>
 <td><a href="http://codeforces.com/problemset/problem/69/A" target="_blank">Young Physicist</a></td>
 <td>Codeforces</td>
 <td>1</td>
-<td><a href="https://github.com/ankitvashisht12/100-questions-of-codeforces/blob/master/young_physicist.cpp">Code</a></td>
+<td><a href="https://github.com/youness372/100-Easy-questions-of-CodeForces/blob/main/69A%20-%20Young%20Physicist/01-69A%20-%20Young%20Physicist.md">Explaination</a></td>    
+ <td><a [href="https://github.com/ankitvashisht12/100-questions-of-codeforces/blob/master/young_physicist.cpp](https://github.com/youness372/100-Easy-questions-of-CodeForces/blob/main/69A%20-%20Young%20Physicist/01-69A.cpp)">Code</a></td>
 </tr>
 <tr>
 <td>2</td>
 <td><a href="http://codeforces.com/problemset/problem/263/A" target="_blank">Beautiful Matrix</a></td>
 <td>Codeforces</td>
 <td>1</td>
-<td><a href="https://github.com/ankitvashisht12/100-questions-of-codeforces/blob/master/beautiful_matrix.cpp">Code</a></td>
+<td><a href="https://github.com/ankitvashisht12/100-questions-of-codeforces/blob/master/beautiful_matrix.cpp">Code</a></td>   
+ <td><a href="https://github.com/ankitvashisht12/100-questions-of-codeforces/blob/master/beautiful_matrix.cpp">Code</a></td>
+
 </tr>
 <tr>
 <td>3</td>
 <td><a href="http://codeforces.com/problemset/problem/266/B" target="_blank">Queue at the School</a></td>
 <td>Codeforces</td>
 <td>1</td>
-<td><a href="https://github.com/ankitvashisht12/100-questions-of-codeforces/blob/master/queue_at_the_school.cpp">Code</a></td>
+<td><a href="https://github.com/ankitvashisht12/100-questions-of-codeforces/blob/master/queue_at_the_school.cpp">Code</a></td> 
+ <td><a href="https://github.com/ankitvashisht12/100-questions-of-codeforces/blob/master/queue_at_the_school.cpp">Code</a></td>
+
 </tr>
 <tr>
 <td>4</td>
 <td><a href="http://codeforces.com/problemset/problem/32/B" target="_blank">Borze</a></td>
 <td>Codeforces</td>
 <td>1</td>
-<td><a href="https://github.com/ankitvashisht12/100-questions-of-codeforces/blob/master/borze.cpp">Code</a></td>
+<td><a href="https://github.com/ankitvashisht12/100-questions-of-codeforces/blob/master/borze.cpp">Code</a></td>  
+ <td><a href="https://github.com/ankitvashisht12/100-questions-of-codeforces/blob/master/borze.cpp">Code</a></td>
+
 </tr>
 <tr>
 <td>5</td>
 <td><a href="http://codeforces.com/problemset/problem/271/A" target="_blank">Beautiful Year</a></td>
 <td>Codeforces</td>
 <td>1</td>
-<td><a href="https://github.com/ankitvashisht12/100-questions-of-codeforces/blob/master/beautiful_year.cpp">Code</a></td>
+<td><a href="https://github.com/ankitvashisht12/100-questions-of-codeforces/blob/master/beautiful_year.cpp">Code</a></td>   
+ <td><a href="https://github.com/ankitvashisht12/100-questions-of-codeforces/blob/master/beautiful_year.cpp">Code</a></td>
+
 </tr>
 <tr>
 <td>6</td>
