@@ -53,11 +53,11 @@ List of 100 beginner friendly questions on codeforces
 </tr>
 <tr>
 <td>4</td>
-<td><a href="http://codeforces.com/problemset/problem/32/B" target="_blank">Borze</a></td>
+<td><a href="https://codeforces.com/problemset/problem/13/A" target="_blank">Numbers</a></td>
 <td>Codeforces</td>
 <td>1</td>
-<td><a href="https://github.com/youness372/100-Easy-questions-of-CodeForces/blob/main/69A%20-%20Young%20Physicist/01-69A%20-%20Young%20Physicist.md">Explaination</a></td>    
- <td><a href = "https://github.com/youness372/100-Easy-questions-of-CodeForces/blob/main/69A%20-%20Young%20Physicist/01-69A.cpp">Code</a></td>
+<td><a href="https://github.com/youness372/100-Easy-questions-of-CodeForces/blob/main/04-13A%20Numbers/02-13A-Numbers.cpp">Explaination</a></td>    
+ <td><a href = "">Code</a></td>
 
 </tr>
 <tr>
