@@ -44,11 +44,11 @@ List of 100 beginner friendly questions on codeforces
 </tr>
 <tr>
 <td>3</td>
-<td><a href="http://codeforces.com/problemset/problem/266/B" target="_blank">Queue at the School</a></td>
+<td><a href="http://codeforces.com/problemset/problem/32/B" target="_blank">Borze</a></td>
 <td>Codeforces</td>
 <td>1</td>
-<td><a href="https://github.com/youness372/100-Easy-questions-of-CodeForces/blob/main/69A%20-%20Young%20Physicist/01-69A%20-%20Young%20Physicist.md">Explaination</a></td>    
- <td><a href = "https://github.com/youness372/100-Easy-questions-of-CodeForces/blob/main/69A%20-%20Young%20Physicist/01-69A.cpp">Code</a></td>
+<td><a href="https://github.com/youness372/100-Easy-questions-of-CodeForces/blob/main/03-32B%20Borze/01-32B%20Borze.md">Explaination</a></td>    
+ <td><a href = "https://github.com/youness372/100-Easy-questions-of-CodeForces/blob/main/03-32B%20Borze/02-32B-Borze.cpp">Code</a></td>
 
 </tr>
 <tr>
