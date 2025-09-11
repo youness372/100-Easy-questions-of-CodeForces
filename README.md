@@ -46,7 +46,7 @@ List of 100 beginner friendly questions on codeforces
 <td>3</td>
 <td><a href="http://codeforces.com/problemset/problem/32/B" target="_blank">Borze</a></td>
 <td>Codeforces</td>
-<td>1</td>
+<td>2</td>
 <td><a href="https://github.com/youness372/100-Easy-questions-of-CodeForces/blob/main/03-32B%20Borze/01-32B%20Borze.md">Explaination</a></td>    
  <td><a href = "https://github.com/youness372/100-Easy-questions-of-CodeForces/blob/main/03-32B%20Borze/02-32B-Borze.cpp">Code</a></td>
 
