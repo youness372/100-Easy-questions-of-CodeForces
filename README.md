@@ -73,7 +73,7 @@ List of 100 beginner friendly questions on codeforces
 <td>6</td>
 <td><a href="http://codeforces.com/problemset/problem/26/A" target="_blank">Almost Prime</a></td>
 <td>Codeforces</td>
-<td>1</td>
+<td>1(Really 🤦🏻‍♂️)</td>
 <td><a href="https://github.com/youness372/100-Easy-questions-of-CodeForces/blob/main/06-26A%20Almost%20%20Prime/01-26A%20Almost%20%20Prime.md">Explaination</a></td>    
  <td><a href = "https://github.com/youness372/100-Easy-questions-of-CodeForces/blob/main/06-26A%20Almost%20%20Prime/02-26A%20Almost%20Prime.cpp">Code</a></td>
 </tr>
