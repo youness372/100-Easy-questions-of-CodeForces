@@ -56,8 +56,8 @@ List of 100 beginner friendly questions on codeforces
 <td><a href="https://codeforces.com/problemset/problem/13/A" target="_blank">Numbers</a></td>
 <td>Codeforces</td>
 <td>1</td>
-<td><a href="https://github.com/youness372/100-Easy-questions-of-CodeForces/blob/main/04-13A%20Numbers/02-13A-Numbers.cpp">Explaination</a></td>    
- <td><a href = "">Code</a></td>
+<td><a href="https://github.com/youness372/100-Easy-questions-of-CodeForces/blob/main/04-13A%20Numbers/01-13A-Numbers.md">Explaination</a></td>    
+ <td><a href = "https://github.com/youness372/100-Easy-questions-of-CodeForces/blob/main/04-13A%20Numbers/02-13A-Numbers.cpp">Code</a></td>
 
 </tr>
 <tr>
