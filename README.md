@@ -71,11 +71,11 @@ List of 100 beginner friendly questions on codeforces
 </tr>
 <tr>
 <td>6</td>
-<td><a href="http://codeforces.com/problemset/problem/275/A" target="_blank">Lights Out</a></td>
+<td><a href="http://codeforces.com/problemset/problem/26/A" target="_blank">Almost Prime</a></td>
 <td>Codeforces</td>
 <td>1</td>
-<td><a href="https://github.com/youness372/100-Easy-questions-of-CodeForces/blob/main/69A%20-%20Young%20Physicist/01-69A%20-%20Young%20Physicist.md">Explaination</a></td>    
- <td><a href = "https://github.com/youness372/100-Easy-questions-of-CodeForces/blob/main/69A%20-%20Young%20Physicist/01-69A.cpp">Code</a></td>
+<td><a href="https://github.com/youness372/100-Easy-questions-of-CodeForces/blob/main/06-26A%20Almost%20%20Prime/01-26A%20Almost%20%20Prime.md">Explaination</a></td>    
+ <td><a href = "https://github.com/youness372/100-Easy-questions-of-CodeForces/blob/main/06-26A%20Almost%20%20Prime/02-26A%20Almost%20Prime.cpp">Code</a></td>
 </tr>
 <tr>
 <td>7</td>
