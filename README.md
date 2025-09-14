@@ -79,7 +79,7 @@ List of 100 beginner friendly questions on codeforces
 </tr>
 <tr>
 <td>7</td>
-<td><a href="http://codeforces.com/problemset/problem/236/A" target="_blank">Beautiful Matrix</a></td>
+<td><a href="http://codeforces.com/problemset/problem/263/A" target="_blank">Beautiful Matrix</a></td>
 <td>Codeforces</td>
 <td>1</td>
 <td><a href="https://github.com/youness372/100-Easy-questions-of-CodeForces/blob/main/07-236A%20%20Beautiful%20Matrix/01-236A%20%20Beautiful%20Matrix.md">Explaination</a></td>    
