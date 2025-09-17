@@ -87,11 +87,11 @@ List of 100 beginner friendly questions on codeforces
 </tr>
 <tr>
 <td>8</td>
-<td><a href="http://codeforces.com/problemset/problem/281/A" target="_blank">Word Capitalization</a></td>
+<td><a href="http://codeforces.com/problemset/problem/110/A" target="_blank">Nearly Lucky Number</a></td>
 <td>Codeforces</td>
 <td>1</td>
-<td><a href="https://github.com/youness372/100-Easy-questions-of-CodeForces/blob/main/69A%20-%20Young%20Physicist/01-69A%20-%20Young%20Physicist.md">Explaination</a></td>    
- <td><a href = "https://github.com/youness372/100-Easy-questions-of-CodeForces/blob/main/69A%20-%20Young%20Physicist/01-69A.cpp">Code</a></td>
+<td><a href="https://github.com/youness372/100-Easy-questions-of-CodeForces/blob/main/08-110A%20Nearly%20Lucky%20Number/01-110A%20Nearly%20Lucky%20Number.md">Explaination</a></td>    
+ <td><a href = "https://github.com/youness372/100-Easy-questions-of-CodeForces/blob/main/08-110A%20Nearly%20Lucky%20Number/02-110A%20Nearly%20Lucky%20Number.cpp">Code</a></td>
 </tr>
 <tr>
 <td>9</td>
