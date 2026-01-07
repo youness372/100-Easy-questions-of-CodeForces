@@ -101,6 +101,17 @@ List of 100 beginner friendly questions on codeforces
 <td><a href="https://github.com/youness372/100-Easy-questions-of-CodeForces/blob/main/69A%20-%20Young%20Physicist/01-69A%20-%20Young%20Physicist.md">Explaination</a></td>    
  <td><a href = "https://github.com/youness372/100-Easy-questions-of-CodeForces/blob/main/09-266A%20-%20Stones%20on%20the%20Table/02-266A-Stones_on_the_Table.cpp">Code</a></td>
 </tr>
+
+<tr>
+<td>10</td>
+<td><a href="https://codeforces.com/problemset/problem/233/B" target="_blank">Non-square Equation</a></td>
+<td>Codeforces</td>
+<td>2</td>
+<td><a href="https://github.com/youness372/100-Easy-questions-of-CodeForces/blob/main/69A%20-%20Young%20Physicist/01-69A%20-%20Young%20Physicist.md">Explaination</a></td>    
+ <td><a href = "https://github.com/youness372/100-Easy-questions-of-CodeForces/blob/main/69A%20-%20Young%20Physicist/01-69A.cpp">Code</a></td>
+</tr>
+
+
 <tr>
 <td>11</td>
 <td><a href="http://codeforces.com/problemset/problem/80/A" target="_blank">Panoramix's Prediction</a></td>
