@@ -111,10 +111,17 @@ List of 100 beginner friendly questions on codeforces
  <td><a href = "https://github.com/youness372/100-Easy-questions-of-CodeForces/blob/main/69A%20-%20Young%20Physicist/01-69A.cpp">Code</a></td>
 </tr>
 
-
-
 <tr>
 <td>11</td>
+<td><a href="http://codeforces.com/problemset/problem/233/A" target="_blank">Perfect Permutation</a></td>
+<td>Codeforces</td>
+<td>1</td>
+<td><a href="https://github.com/youness372/100-Easy-questions-of-CodeForces/blob/main/69A%20-%20Young%20Physicist/01-69A%20-%20Young%20Physicist.md">Explaination</a></td>    
+ <td><a href = "https://github.com/youness372/100-Easy-questions-of-CodeForces/blob/main/11-233A-Perfect%20Permutation/02-233A-Perfect%20Permutation.cpp">Code</a></td>
+</tr>
+
+<tr>
+<td>12</td>
 <td><a href="http://codeforces.com/problemset/problem/20/B" target="_blank">Equation</a></td>
 <td>Codeforces</td>
 <td>1</td>
@@ -124,7 +131,7 @@ List of 100 beginner friendly questions on codeforces
 
 
 <tr>
-<td>11</td>
+<td>13</td>
 <td><a href="http://codeforces.com/problemset/problem/80/A" target="_blank">Panoramix's Prediction</a></td>
 <td>Codeforces</td>
 <td>1</td>
@@ -132,21 +139,16 @@ List of 100 beginner friendly questions on codeforces
  <td><a href = "https://github.com/youness372/100-Easy-questions-of-CodeForces/blob/main/13-80A%20-%20Panoramix's%20Prediction/02-80A%20-%20Panoramix's%20Prediction.cpp">Code</a></td>
 </tr>
 <tr>
-<td>12</td>
+
+ 
+<td>14</td>
 <td><a href="http://codeforces.com/problemset/problem/61/A" target="_blank">Ultra-Fast Mathematician</a></td>
 <td>Codeforces</td>
 <td>1</td>
 <td><a href="https://github.com/youness372/100-Easy-questions-of-CodeForces/blob/main/69A%20-%20Young%20Physicist/01-69A%20-%20Young%20Physicist.md">Explaination</a></td>    
  <td><a href = "https://github.com/youness372/100-Easy-questions-of-CodeForces/blob/main/69A%20-%20Young%20Physicist/01-69A.cpp">Code</a></td>
 </tr>
-<tr>
-<td>13</td>
-<td><a href="http://codeforces.com/problemset/problem/233/A" target="_blank">Perfect Permutation</a></td>
-<td>Codeforces</td>
-<td>1</td>
-<td><a href="https://github.com/youness372/100-Easy-questions-of-CodeForces/blob/main/69A%20-%20Young%20Physicist/01-69A%20-%20Young%20Physicist.md">Explaination</a></td>    
- <td><a href = "https://github.com/youness372/100-Easy-questions-of-CodeForces/blob/main/69A%20-%20Young%20Physicist/01-69A.cpp">Code</a></td>
-</tr>
+
 <tr>
 <td>14</td>
 <td><a href="http://codeforces.com/problemset/problem/144/A" target="_blank">Arrival of the General</a></td>
