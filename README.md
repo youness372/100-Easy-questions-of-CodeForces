@@ -161,7 +161,7 @@ List of 100 beginner friendly questions on codeforces
 <td>16</td>
 <td><a href="http://codeforces.com/problemset/problem/200/B" target="_blank">Drinks</a></td>
 <td>Codeforces</td>
-<td>1</td>
+<td>2(B)</td>
 <td><a href="https://github.com/youness372/100-Easy-questions-of-CodeForces/blob/main/69A%20-%20Young%20Physicist/01-69A%20-%20Young%20Physicist.md">Explaination</a></td>    
  <td><a href = "https://github.com/youness372/100-Easy-questions-of-CodeForces/blob/main/69A%20-%20Young%20Physicist/01-69A.cpp">Code</a></td></tr>
 <tr>
