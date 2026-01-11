@@ -164,6 +164,16 @@ List of 100 beginner friendly questions on codeforces
 <td>2(B)</td>
 <td><a href="https://github.com/youness372/100-Easy-questions-of-CodeForces/blob/main/69A%20-%20Young%20Physicist/01-69A%20-%20Young%20Physicist.md">Explaination</a></td>    
  <td><a href = "https://github.com/youness372/100-Easy-questions-of-CodeForces/blob/main/69A%20-%20Young%20Physicist/01-69A.cpp">Code</a></td></tr>
+
+ <tr>
+<td>17</td>
+<td><a href="https://codeforces.com/problemset/problem/791/A">Bear and Big Brother</a></td>
+<td>Codeforces</td>
+<td>1</td>
+<td><a href="https://github.com/youness372/100-Easy-questions-of-CodeForces/blob/main/69A%20-%20Young%20Physicist/01-69A%20-%20Young%20Physicist.md">Explaination</a></td>    
+ <td><a href = "https://github.com/youness372/100-Easy-questions-of-CodeForces/tree/main/17-791A-Bear%20and%20Big%20Brother">Code</a></td></tr>
+<tr> 
+ 
 <tr>
 <td>16</td>
 <td><a href="http://codeforces.com/problemset/problem/148/A" target="_blank">Insomnia cure</a></td>
