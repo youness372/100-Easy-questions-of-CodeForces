@@ -176,7 +176,7 @@ List of 100 beginner friendly questions on codeforces
 
  <tr>
 <td>17</td>
-<td><a href="hhttps://codeforces.com/problemset/problem/71/A">Way Too Long Words</a></td>
+<td><a href="https://codeforces.com/problemset/problem/71/A">Way Too Long Words</a></td>
 <td>Codeforces</td>
 <td>1</td>
 <td><a href="https://github.com/youness372/100-Easy-questions-of-CodeForces/blob/main/69A%20-%20Young%20Physicist/01-69A%20-%20Young%20Physicist.md">Explaination</a></td>    
