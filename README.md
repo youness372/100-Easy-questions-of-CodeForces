@@ -194,7 +194,7 @@ List of 100 beginner friendly questions on codeforces
 <tr> 
 
  
-
+<!--
  
 <tr>
 <td>16</td>
@@ -224,13 +224,15 @@ List of 100 beginner friendly questions on codeforces
 <td>1</td>
 <td><a href="https://github.com/youness372/100-Easy-questions-of-CodeForces/blob/main/69A%20-%20Young%20Physicist/01-69A%20-%20Young%20Physicist.md">Explaination</a></td>    
  <td><a href = "https://github.com/youness372/100-Easy-questions-of-CodeForces/blob/main/69A%20-%20Young%20Physicist/01-69A.cpp">Code</a></td></tr>
+!--> 
 <tr>
 <td>20</td>
 <td><a href="http://codeforces.com/problemset/problem/339/A" target="_blank">Helpful Maths</a></td>
 <td>Codeforces</td>
 <td>1</td>
 <td><a href="https://github.com/youness372/100-Easy-questions-of-CodeForces/blob/main/69A%20-%20Young%20Physicist/01-69A%20-%20Young%20Physicist.md">Explaination</a></td>    
- <td><a href = "https://github.com/youness372/100-Easy-questions-of-CodeForces/blob/main/69A%20-%20Young%20Physicist/01-69A.cpp">Code</a></td></tr>
+ <td><a href = "https://github.com/youness372/100-Easy-questions-of-CodeForces/tree/main/20-339A%20-%20Helpful%20Maths">Code</a></td></tr>
+ 
 <tr>
 <td>21</td>
 <td><a href="http://codeforces.com/problemset/problem/228/A" target="_blank">Is your horseshoe on the other hoof?</a></td>
