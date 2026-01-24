@@ -349,7 +349,7 @@ List of 100 beginner friendly questions on codeforces
 <td>Codeforces</td>
 <td>2</td>
 <td><a href="https://github.com/youness372/100-Easy-questions-of-CodeForces/blob/main/69A%20-%20Young%20Physicist/01-69A%20-%20Young%20Physicist.md">Explaination</a></td>    
- <td><a href = "https://github.com/youness372/100-Easy-questions-of-CodeForces/blob/main/69A%20-%20Young%20Physicist/01-69A.cpp">Code</a></td></tr>
+ <td><a href = "https://github.com/youness372/100-Easy-questions-of-CodeForces/blob/main/31-272A%20-%20Dima%20and%20Friends/02-272A%20-%20Dima%20and%20Friends.cpp">Code</a></td></tr>
  
  
 <tr>
