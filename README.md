@@ -360,9 +360,19 @@ List of 100 beginner friendly questions on codeforces
 <td><a href="https://github.com/youness372/100-Easy-questions-of-CodeForces/blob/main/69A%20-%20Young%20Physicist/01-69A%20-%20Young%20Physicist.md">Explaination</a></td>    
  <td><a href = "https://github.com/youness372/100-Easy-questions-of-CodeForces/blob/main/69A%20-%20Young%20Physicist/01-69A.cpp">Code</a></td></tr>
 
- 
+
+  
 <tr>
 <td>32</td>
+<td><a href="http://codeforces.com/problemset/problem/227/B" target="_blank">Newspaper Headline</a></td>
+<td>Codeforces</td>
+<td>2</td>
+<td><a href="https://github.com/youness372/100-Easy-questions-of-CodeForces/blob/main/69A%20-%20Young%20Physicist/01-69A%20-%20Young%20Physicist.md">Explaination</a></td>    
+ <td><a href = "https://github.com/youness372/100-Easy-questions-of-CodeForces/blob/main/32-91A%20-%20Newspaper%20Headline/03-91A%20-%20Newspaper%20Headline.py">Code</a></td></tr>
+
+
+<tr>
+<td>32.5</td>
 <td><a href="http://codeforces.com/problemset/problem/450/A" target="_blank">Jzzhu and Children</a></td>
 <td>Codeforces</td>
 <td>2</td>
